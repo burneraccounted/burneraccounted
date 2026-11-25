@@ -6,6 +6,7 @@
 
 $\color{#8c3750}{\text{text text text text text text text text }}$ 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/e12ed5f3-72e5-42d7-93c3-15b9fc104153" />
+
 $\color{#6f7780}{\text{text text text text text text text text }}$ 
 
 $\color{#8c3750}{\text{text text text text text text text text }}$ 
@@ -20,6 +21,7 @@ $\color{#8c3750}{\text{text text text text text text text text }}$
 
 $\color{#6f7780}{\text{text text text text text text text text }}$ 
 <img align="left" width="300" src="https://github.com/user-attachments/assets/f13002af-838f-4340-b76a-a706522307e5" />
+
 $\color{#8c3750}{\text{text text text text text text text text }}$ 
 
 $\color{#6f7780}{\text{text text text text text text text text }}$ 
