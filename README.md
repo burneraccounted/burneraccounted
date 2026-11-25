@@ -1,5 +1,8 @@
 <img width="1000" src="https://github.com/user-attachments/assets/b03f3dae-2104-4e60-a998-531b68a4691a" />
 
+<p align="center">
+<img width="500" src="https://github.com/user-attachments/assets/5f7d7e39-82ba-4b90-8a32-5b753cf31d98" />
+</p>
 
 $\color{#8c3750}{\text{text text text text text text text text }}$ 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/e12ed5f3-72e5-42d7-93c3-15b9fc104153" />
