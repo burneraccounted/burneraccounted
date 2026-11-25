@@ -1,4 +1,4 @@
-<img width="1000" src="https://github.com/user-attachments/assets/b03f3dae-2104-4e60-a998-531b68a4691a" />
+<img width="1000" src="https://github.com/user-attachments/assets/04da68ed-66e8-4b33-b243-41b56229014d" />
 
 <p align="center">
 <img width="500" src="https://github.com/user-attachments/assets/5f7d7e39-82ba-4b90-8a32-5b753cf31d98" />
@@ -30,4 +30,4 @@ $\color{#6f7780}{\text{text text text text text text text text }}$
 
 $\color{#8c3750}{\text{text text text text text text text text }}$ 
 
-<img width="1000" src="https://github.com/user-attachments/assets/1993e183-bbee-4900-8d2d-48250ad8e582" />
+<img width="1000" src="https://github.com/user-attachments/assets/cad2266e-842a-4d56-9e78-38bce1de4060" />
